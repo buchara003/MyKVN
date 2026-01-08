@@ -1,17 +1,12 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20ss-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20ss-NL%20(3)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3c2FVdXVWLVlEcThCVEtnV1VRRkFSVTVCdVBlWEVmWg@de1-nv.jugploer.icu:2050#%F0%9F%87%A9%F0%9F%87%AA%5Bopenproxylist.com%5D%20ss-DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%201%20-%20SS%20-%20Netherlands%20:%208080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%87%B1%F0%9F%87%BB%20%20SS%20Latvia%20And%20Ukraina?????
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg@37.221.125.38:443#%3E%3E@DailyV2RY::DE
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%B0-Copenhagen-275ms-PQ%20HOSTING%20PLUS%20S.R.L.
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?allowInsecure=1&sni=api.avito.ru#%F0%9F%87%AE%F0%9F%87%B9%20IT%202
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1%2010%20%7C%20Dey-12%7C%20MTSRVRS
-vless://5ba2e48a-d36c-40a5-a4a1-2819ed6efce5@51.250.28.151:4248?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1%2039%20%7C%20Dey-12%7C%20MTSRVRS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#%F0%9F%94%92%20SS-TCP-NA%20%F0%9F%87%B7%F0%9F%87%BA%20RU-90.156.203.62:5112%20%F0%9F%93%A1%20PING-117.69-MS
-vless://433bc812-41a7-4885-88e4-70b2050882f5@185.86.144.249:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&security=reality&sid=0f917152a871e9c0&sni=maviks.ru&type=tcp#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%B7%F0%9F%87%BA%20RU-185.86.144.249:443%20%F0%9F%93%A1%20PING-122.00-MS
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?encryption=none&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&security=reality&sid=e9d19fd1ca5ca23c&sni=hel1.hitori.cloud&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%5Bopenproxylist.com%5D%20vless-FI%20(3)
-vless://61757901-3818-46c7-8482-683fa7f6ba10@103.90.75.252:3001?encryption=none&security=none&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%B3%F0%9F%87%B1
 vless://eb774544-18d2-4f43-ad4a-df77ee6726d4@198.186.130.113:6673?encryption=none&security=none&serviceName=%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT&type=grpc#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-gr%5D%20%5B260104-012230.639%5D
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL(AzadNet.t.me)%20(3)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#%F0%9F%87%B3%F0%9F%87%B1NL(AzadNet.t.me)%20(25)
