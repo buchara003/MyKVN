@@ -1,3 +1,4 @@
+vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=j07H9kYduVQkwjQw-7PW0um-0FUeCNe9J70oLv8I03I&security=reality&sid=626617b8f5c8&sni=google.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE%20(3)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20ss-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20ss-NL%20(3)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%201%20-%20SS%20-%20Netherlands%20:%208080
@@ -22,4 +23,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.202:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#%F0%9F%87%AC%F0%9F%87%A7GB(AzadNet.t.me)%20(21)
 vless://044818b4-a05f-5813-b8f5-63e1e4615827@194.107.126.214:8443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=JOJ9C3bZafgM5-cMNWQQIgsU7rGSMhXOz89852K-EwQ&security=reality&sid=c39392324d01&sni=vk.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20vk.com
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.102:8443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=YroB2r6MeCXtjqqVx5gr45KTPCJF_kk2n0yqbHhEQSE&security=reality&sid=743952dfbeb3&sni=vk.com&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20vk.com
-vless://f3b47775-edd2-42f8-94ac-9d315ae5463d@83.219.97.166:30297?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=j07H9kYduVQkwjQw-7PW0um-0FUeCNe9J70oLv8I03I&security=reality&sid=626617b8f5c8&sni=google.com&type=tcp#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AB%F0%9F%87%AE%20(3)
