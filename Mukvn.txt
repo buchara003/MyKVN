@@ -5,7 +5,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg@37.221.125.38:443#%3E%3E@DailyV2RY::DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1%2010%20%7C%20Dey-12%7C%20MTSRVRS
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?encryption=none&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&security=reality&sid=e9d19fd1ca5ca23c&sni=hel1.hitori.cloud&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%5Bopenproxylist.com%5D%20vless-FI%20(3)
-vless://eb774544-18d2-4f43-ad4a-df77ee6726d4@198.186.130.113:6673?encryption=none&security=none&serviceName=%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT---%40V2rayNGSelllBoT&type=grpc#%5B%F0%9F%87%A9%F0%9F%87%AA%5D%20%5Bvl-no-gr%5D%20%5B260104-012230.639%5D
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL(AzadNet.t.me)%20(3)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.177:8080#%F0%9F%87%B3%F0%9F%87%B1NL(AzadNet.t.me)%20(25)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1NL(AzadNet.t.me)%20(7)
@@ -26,7 +25,6 @@ vmess://f3d4167e-b15e-4e46-82e9-9286ef93fda7@85.195.101.122:40878?encryption=aut
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ@45.15.127.49:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+45.15.127.49-443+%7C+136.49ms
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=1#FI%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%205.6MB/s
-vless://8a92875e-2a19-43c8-8834-c38dc44e4ba7@node1.uzuk.pro:2345?encryption=none&security=none&type=tcp#%F0%9F%87%A8%F0%9F%87%AD%20SW-Free%20WIFI
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#%E2%9A%A1%20b2n.ir/v2ray-configs%20%7C%20382
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.184-8080+%7C+86.76ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080#0274%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20SS%20%7C%20%20TG:%20@YoutubeUnBlockRu
@@ -39,8 +37,6 @@ vless://db444bee-8212-5ff5-be40-47e1a7509eb8@212.34.138.33:8443?encryption=none&
 vless://db444bee-8212-5ff5-be40-47e1a7509eb8@77.238.225.248:8443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=7JkpzRPbu2zJcPNrwVsE72C_OIduEDy_e2G4Uh0g4ms&security=reality&sid=21c75f62&sni=vk.com&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20vk.com%20(1)
 vless://a4037b4c-6a9d-528c-9efb-7d801cce8adb@212.34.132.166:443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=LmgY61ELVJG18KwqOPTn_zNc1M-fjWVFQBRHZxGBGwU&security=reality&sid=73cec294&sni=vk.com&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20vk.com%20(2)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOUVJDaC1xbTExR0g5TWFSV1g5TmRtU2RXYUdSaEZlUw@fi.appav.online:5228#1655%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20SS%20%7C%20TG:%20@YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1bzdFYnRxSXdnWlhYSG1NdjVMYkxjT3hwdHlQbE5raA@178.23.190.238:443#1850%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20SS%20%7C%20TG:%20@YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@95.164.10.228:443#0999%20%7C%20%F0%9F%8C%90%20Unknown%20%7C%20SS%20%7C%20TG:%20@YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTMlF1ZEJ4aTB2UnlTdzRZUkxsb1Bx@77.238.224.29:55702#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%F0%9F%8E%81%20(3)
 hysteria2://dongtaiwang.com@89.144.35.25:33550/?insecure=1&sni=apple.com#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%F0%9F%8E%81
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#Channel%20id:%20@ShadowProxy66%20%F0%9F%87%AC%F0%9F%87%A7
