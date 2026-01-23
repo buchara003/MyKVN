@@ -1,6 +1,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1TEQ4NzRvUzM5alEyNmNUOTdOYUFv@178.173.250.47:56033#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20ss-NL
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.204:8080#%F0%9F%87%B3%F0%9F%87%B1%5Bopenproxylist.com%5D%20ss-NL%20(3)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%201%20-%20SS%20-%20Netherlands%20:%208080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.218:8080#%F0%9F%8C%90%D8%B3%D8%B1%D9%88%D8%B1%2010%20%7C%20Dey-12%7C%20MTSRVRS
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?encryption=none&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&security=reality&sid=e9d19fd1ca5ca23c&sni=hel1.hitori.cloud&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%5Bopenproxylist.com%5D%20vless-FI%20(3)
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#%F0%9F%87%B3%F0%9F%87%B1NL(AzadNet.t.me)%20(3)
@@ -20,7 +19,6 @@ ss://YWVzLTI1Ni1jZmI6YzNOdEhKNXVqVjJ0R0Rmag@217.30.10.18:9084#%F0%9F%94%92%20SS-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ@45.15.127.49:443#FI%F0%9F%87%AB%F0%9F%87%AE+%7C+45.15.127.49-443+%7C+136.49ms
 trojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=1#FI%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowTmVONXRhN0ZMYTVCOURMeXRVMHVt@212.34.140.184:443#%F0%9F%91%89%F0%9F%86%94%20@v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B1NL%20%F0%9F%A7%AD%205.6MB/s
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxN1pET1JXSWxpUUh1TzZXUkdIQ2hYWU16ZFJ0QVlWUA@45.14.245.2:443#%E2%9A%A1%20b2n.ir/v2ray-configs%20%7C%20382
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.184:8080#NL%F0%9F%87%B3%F0%9F%87%B1+%7C+193.29.139.184-8080+%7C+86.76ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@193.29.139.175:8080#0274%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20SS%20%7C%20%20TG:%20@YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:8080#0282%20%7C%20%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20%7C%20SS%20%7C%20%20TG:%20@YoutubeUnBlockRu
@@ -45,10 +43,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTRGFGSVNyM0dmbTZZa0JTU3JGSUV3d1dqRUVVN1hibw@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.160:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.143:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20193.29.139.143%20%E2%97%88%20tcp:8080%20%E2%97%88%20Greenhost%20BV%20%E2%97%88%201b111
 hysteria2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@NpvV2rayFilTer
-hysteria2://be8cc8f6-0c6a-11f0-a5a3-f23c93141fad@ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk:1743/?sni=ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk#@V2aryng_vpn
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.50:443?encryption=none&security=tls&sni=ficdn1.suio.me&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20FI%20%7C%2085.192.48.50
 vless://95abaefc-7861-417a-81b7-166cb788ce1a@144.31.119.84:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU&security=reality&sid=00684d2eae2cdd16&sni=st.ozone.ru&type=tcp#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AB%F0%9F%87%AE%20FI-144.31.119.84:443%20%F0%9F%93%A1%20PING-173.57-MS
-vless://ca2b2268-e2c4-4a78-beee-111189a861e7@144.31.90.92:8104?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&security=reality&sid=1afc9d750da1ba88&sni=tradingview.com&type=tcp#%F0%9F%94%92%20VL-TCP-RLT%20%F0%9F%87%AB%F0%9F%87%AE%20FI-144.31.90.92:8104%20%F0%9F%93%A1%20PING-163.52-MS
 vless://f79aba55-5300-4da4-9dbf-0db09e57b57a@germany10gb.spectrum.vu:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&security=reality&sni=max.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%F0%9F%96%A5%EF%B8%8FGermany%20%7C%2010%20Gbit/s%20%F0%9F%9A%80
 vless://f79aba55-5300-4da4-9dbf-0db09e57b57a@nl.spectrum.vu:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&security=reality&sni=max.ru&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%F0%9F%96%A5%EF%B8%8FNetherlands%20%7C%205%20Gbit/s%20%F0%9F%9A%80
 vless://f79aba55-5300-4da4-9dbf-0db09e57b57a@sw.kissthenight.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cRyfPg-_KmYl_kPBrsxCP6Yodugb6vs4jDEBmswxtVI&security=reality&sni=max.ru&type=tcp#%F0%9F%87%B8%F0%9F%87%AA%F0%9F%96%A5%EF%B8%8FSweden%20%7C%201%20Gbit/s%20%E2%9A%A1
