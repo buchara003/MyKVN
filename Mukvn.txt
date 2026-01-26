@@ -56,3 +56,4 @@ trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?sni=www.semanticstaplegun.c
 ss://YWVzLTEyOC1nY206dEtrbytZSUF1dVozZDBoc1BYMitEM05xZXB5dEcxSGEwVlJMd0JyZjBBaz0@5.129.219.21:8080#https://t.me/ForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-397ms-Timeweb%20LLP
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.191:8080#https://t.me/ForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-399ms-Greenhost%20BV
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443?allowInsecure=1#https://t.me/ForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-FrankfurtAmMain-8231ms-HZ%20Hosting%20Ltd
+vless://ccbc334b-de33-4431-89b4-35b756230f51@94.237.93.9:59421?encryption=none&headerType=http&host=soft98.ir&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%2016
