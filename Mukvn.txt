@@ -60,3 +60,4 @@ vless://419ccc44-0a46-4461-a73f-2d6f44fecede@144.31.94.1:443?encryption=none&flo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VkFjbGw0UDh4UFRVVlZ0SGVTVDNvblJtTG9WSUJTVQ@94.131.104.147:443#%F0%9F%87%B1%F0%9F%87%BB%205%20-%20SS%20-%20Latvia%20:%20443
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg@37.221.125.38:443#%3E%3E@DailyV2RY::DE
 vless://044818b4-a05f-5813-b8f5-63e1e4615827@194.107.126.214:8443?encryption=none&fp=chrome&mode=auto&path=%2F&pbk=JOJ9C3bZafgM5-cMNWQQIgsU7rGSMhXOz89852K-EwQ&security=reality&sid=c39392324d01&sni=vk.com&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5BSNI-RU%5D%20vk.com
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@94.228.213.240:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#REALITY%7CNL%F0%9F%87%B3%F0%9F%87%B1%20(18)
