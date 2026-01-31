@@ -43,3 +43,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwUW1uQzAzSk9iYlBoZGg1RkJKSGdENmpuVExjaHNSQQ@
 vless://8755801f-8eab-43d5-9bc6-d740c5fe12ee@91.216.71.109:943?encryption=none&security=none&type=tcp#%F0%9F%87%AE%F0%9F%87%B7%20IR%201
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub2Rlcy1iMjExZjI4YQ@69.42.220.39:990#%F0%9F%87%A9%F0%9F%87%AA%20ShatakVPN%20325588
 socks5://LowiK_Live:LowiK_Live@c15.play2go.cloud:20158#%D1%82%D0%B3%D0%BA:@LowiK_Live
+socks5://astranet:astranet@st.astracat.ru:7777#%D1%82%D0%B3%D0%BA:@LowiK_Live
