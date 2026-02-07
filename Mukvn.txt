@@ -49,3 +49,5 @@ vless://fbc30338-4eed-4440-8d90-2247b479d734@gb01-vlr01.tcp-reset-club.net:443?e
 vless://1bcc060c-a65d-4478-bdea-f4ff055ec54f@91.107.251.197:10321?encryption=none&security=none&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20DE%201
 vless://61111a66-0485-44b4-d90f-d49a1f90968b@77.73.132.193:8080?encryption=none&host=www.time.ir&path=%40CHANGE_IP1&security=none&type=httpupgrade#%F0%9F%87%B3%F0%9F%87%B1%20NL%201%20(1)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%202
+vless://ff24e04d-5077-49ba-8322-6397f20d8cfb@45.157.234.179:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=max3.skystreamgame.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany,%20Frankfurt%20am%20Main%20%5BBL%5D%20(4)
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20(Amsterdam-Noord)%20%5BBL%5D%20(6)
