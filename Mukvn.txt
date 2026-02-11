@@ -56,3 +56,9 @@ vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@87.121.86.225:443?encryption=none&f
 vless://03420c3f-0bb1-4c64-ab73-e7661fc3e8a2@87.121.105.189:8443?encryption=none&security=none&type=tcp#002%F0%9F%87%B8%F0%9F%87%AA
 socks5://5.255.117.127:1080#cloud3%20root%20sx
 socks5://wlrustg:sidylink1@proxy.wlrus.lol:20943#proxy%20wlrus
+vless://3e06f94f-c224-480c-962f-1d7d4615c15c@chatgpt.com:2082?encryption=none&host=iiu-172525262726262-jsvssgshshs.maxgh5766.ir.&mode=auto&path=%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net-www.speedtest.net%3Fed%3D27226&security=none&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany,%20Frankfurt%20am%20Main%20%5BBL%5D
+vmess://40e306a6-7cab-40ac-a085-a961895eb11b@109.104.153.12:20104?encryption=auto&host=109.104.153.12&path=%2Farki&security=none&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20%5BBL%5D
+vless://094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa@nl-78w-c.southnetworks.cloud:80?encryption=none&host=nl-78w-c.southnetworks.cloud&path=%2FgetWorkerUpdates&security=none&type=ws#%E5%AE%98%E7%BD%91520.juanwangjc.top%E4%BF%84%E7%BD%97%E6%96%AF%20%E5%85%8D%E8%B4%B9%E4%BD%BF%E7%94%A8-02
+vless://d4de1f64-bf3c-4d97-9663-0091f8c07359@62.60.237.240:443?encryption=none&fp=chrome&pbk=RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk&security=reality&sid=b3d76d&sni=logggg.nammknammknammknammknammkb2.ir&type=tcp#125%F0%9F%87%AB%F0%9F%87%AE
+vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@5.199.168.223:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&security=reality&sid=abc323&sni=sun6-22.userapi.com&type=tcp#130%F0%9F%87%B1%F0%9F%87%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.99:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%206
