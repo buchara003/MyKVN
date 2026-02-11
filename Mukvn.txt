@@ -54,3 +54,5 @@ vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?allowInsecure=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#Telegram%20@Ettehad_vpn%20%D8%A7%D8%AA%D8%AD%D8%A7%D8%AF%20%D9%88%DB%8C%E2%80%8C%D9%BE%DB%8C%E2%80%8C%D8%A7%D9%86%20(1)
 vless://b42f7955-3741-406f-b95a-ed7b051ae5aa@87.121.86.225:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=www.vk.com&type=tcp#067%F0%9F%87%AA%F0%9F%87%AA
 vless://03420c3f-0bb1-4c64-ab73-e7661fc3e8a2@87.121.105.189:8443?encryption=none&security=none&type=tcp#002%F0%9F%87%B8%F0%9F%87%AA
+socks5://5.255.117.127:1080#cloud3%20root%20sx
+socks5://wlrustg:sidylink1@proxy.wlrus.lol:20943#proxy%20wlrus
