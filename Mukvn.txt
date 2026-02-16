@@ -3,8 +3,6 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400/?insecure=1&obfs=sal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.217:8080#v2go%20%7C%20%F0%9F%87%AC%F0%9F%87%A7%20GB%20%7C%20SS%20%7C%20340%20%7C%20%E2%9A%A1%2088ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKUWNjMnJJWnRYYW1hdFJZQUlOSWRkTW9tM01CdTd6Rg@37.221.125.38:443#%3E%3E@DailyV2RY::DE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@45.87.175.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL
-socks5://T2dAMTkzLjIzMy4yNTQuNzpAMTkzLjIzMy4yNTQuNw%253D%253D:T2dAMTkzLjIzMy4yNTQuNzpAMTkzLjIzMy4yNTQuNw%253D%253D@193.233.254.7:1080#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E5%BE%B7%E5%9B%BD%2009
-socks5://Og%40193.233.254.8:Og%40193.233.254.8@193.233.254.8:1080#%F0%9F%87%A9%F0%9F%87%AA%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E5%BE%B7%E5%9B%BD%2012
 socks5://astranet:astranet@st.astracat.ru:7777#%D1%82%D0%B3%D0%BA:@LowiK_Live%20(1)
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955?encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&security=reality&serviceName=grpc&sid=6ba85179e30d4fc2&sni=one-piece.com&type=grpc#%F0%9F%87%A6%F0%9F%87%B9%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E5%A5%A5%E5%9C%B0%E5%88%A9%2003
 vless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.50.126:22955?encryption=none&fp=chrome&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&security=reality&serviceName=grpc&sid=6ba85179e30d4fc2&sni=one-piece.com&type=grpc#%F0%9F%87%A6%F0%9F%87%B9%20%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90:dafei.de%20%E5%A5%A5%E5%9C%B0%E5%88%A9%2004
