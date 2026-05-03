@@ -21,3 +21,5 @@ hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@83.243.86.103:12855/?insecu
 vless://7b13eaac-882d-43a0-b19e-6d2e867d624e@176.123.8.28:443?encryption=none&fp=chrome&pbk=h7CCbT_1gwxhQGM-4_pZkNRbAe_I6YFQM6jO9x6uORw&security=reality&sni=hcaptcha.com&type=grpc#%F0%9F%87%B2%F0%9F%87%A9%20Moldova,%20Chisinau%20%7C%20%5BBL%5D
 vless://37253a6a-2a9b-42bb-992c-b5f1b1ef1791@vltch.mostserv.xyz:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=3WzSgL8uXA3vE3IHrfdBpJmOO4MYrsWpczDSY_jJRjI&security=reality&sid=226509f017e4c36d&sni=vltch.mostserv.xyz&type=tcp#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania
 vless://75807638-6f19-07d0-ae08-38492ee85c88@178.72.181.41:52006?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp#%D0%9E%D0%B1%D1%85%D0%BE%D0%B4%20Ru%20Gpt
+hysteria2://github.com%2FAlvin9999-newpac%2Ffanqiang@83.243.86.103:12855/?insecure=1&sni=www.microsoft.com#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BBL%5D
+trojan://GZOof2R1ej4yML1NxajR2frGQ@hl-freedom-1.undef.network:443?host=hl-freedom-1.undef.network&path=%2Ff2fc2a1f&sni=HL-FREEDOM-1.UNDEF.NETWORK&type=ws#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20%7C%20%5BBL%5D%20(7)
